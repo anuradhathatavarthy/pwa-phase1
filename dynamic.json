@@ -1,0 +1,46 @@
+{
+	"profile":{
+		"img":"image/3.jpg",
+		"name":"Gowthami",
+		"roll":"16A31A0568",
+		"institute":"Pragati",
+		"place":"Rajahmundry"
+	},
+	"career":{
+		"info":"To secure job in infosys"
+	},
+	"education":[
+		{
+			"sno":"1",
+			"degree":"B.tech",
+			"institute":"Pragati",
+			"yop":"2020"
+
+		},
+		{
+			"sno":"2",
+			"degree":"Intermediate",
+			"institute":"SCJC",
+			"yop":"2016"
+
+		},
+		{
+			"sno":"3",
+			"degree":"SSC",
+			"institute":"SGSS",
+			"yop":"2014"
+
+		}
+	],
+	"languages":[
+		{
+			"lang":"English"
+		},
+		{
+			"lang":"Telugu"
+		},
+		{
+			"lang":"Hindi"
+        }
+	]
+}
